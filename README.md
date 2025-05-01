@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI I am a Frontend Developer.<br>I am currently Working on Finance Assistant site.<br>Passionate About solving Tricky problems.<br>Also Daily practising DSA problem.
+🙋‍♂️HI I am a Frontend Developer.<br>⚒️I am currently Working on Finance Assistant site.<br>💁Passionate About solving Tricky problems.<br>🧑‍💻Also Daily practising DSA problem.
 
 
 ## 🌐 Socials:
